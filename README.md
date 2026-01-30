@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m Aranga Sakthivel, a B.Tech Information Technology student at VIT Vellore (CGPA 9.35/10) with strong foundations in Java, Data Structures, and Full-Stack Development. I enjoy building scalable web applications, working with backend systems, and solving real-world problems through clean and efficient code. I also have a growing interest in AI and Machine Learning and continuously work on improving my problem-solving and system design skills.
+# 💫 Hi I’m Aranga Sakthivel R
+B.Tech Information Technology student at VIT Vellore (CGPA 9.35/10) with strong foundations in Java, Data Structures, and Full-Stack Development. I enjoy building scalable web applications, working with backend systems, and solving real-world problems through clean and efficient code. I also have a growing interest in AI and Machine Learning and continuously work on improving my problem-solving and system design skills.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
